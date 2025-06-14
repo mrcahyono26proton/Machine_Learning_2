@@ -1,0 +1,7 @@
+tensorflow
+pandas
+numpy
+nltk
+scikit-learn
+google_play_scraper
+requests
